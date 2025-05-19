@@ -1,0 +1,11 @@
+
+img.rounded-circle {
+  object-fit: cover;
+  border: 2px solid #dee2e6;
+}
+
+.badge.bg-info {
+  background-color: #0dcaf0 !important;
+  color: #000;
+}
+
